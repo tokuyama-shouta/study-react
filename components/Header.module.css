@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  padding: 2rem 0;
+  border-bottom: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.header span:last-child {
+  margin-left: 20px;
+}
